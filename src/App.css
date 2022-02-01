@@ -1,0 +1,43 @@
+ 
+  
+ .card{
+    
+   width: 50%;
+   padding: 70px;
+   margin: auto;
+   margin-top: 10%;
+   background-image: linear-gradient(to right bottom,green,white);
+     
+ }
+ .card{
+  background-image: url('./natu.jpg');
+  background-size: cover;
+   
+ }
+ .card-title{
+margin-bottom: 30px;
+margin-top: -10px;
+color: rgb(71, 249, 255);
+text-shadow:3px 3px rgb(26, 25, 25);
+font-size: 3em;
+font-family:Georgia, 'Times New Roman', Times, serif;
+ }
+ 
+ input[type="text"]{
+   margin: 5px;
+   padding : 5px;
+   border-radius: 5px;
+   width: 100%;
+ }
+
+ input[type='submit']{
+  margin: 5px;
+  padding : 5px;
+  border-radius: 5px;
+  background-image: linear-gradient(to right top,white,aqua);
+}
+.result{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+}
+ 
